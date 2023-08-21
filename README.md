@@ -9,7 +9,6 @@ Welcome to the Netflix Analysis repository! In this project, I have conducted a 
 - [Getting Started](#getting-started)
 - [Analysis](#analysis)
 - [Visualizations](#visualizations)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -24,7 +23,7 @@ The dataset used for this analysis is sourced from Kaggle, containing informatio
 
 To explore the Netflix Analysis project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/netflix-analysis.git`
+1. Clone this repository: `git clone https://github.com/weedu34/Netflix_Analysis`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the dataset from Kaggle using the Kaggle API.
 4. Load and preprocess the dataset using Pandas in a Jupyter Notebook environment.
@@ -43,11 +42,8 @@ The analysis covers a wide range of aspects related to Netflix's content, includ
 
 The heart of this project lies in its visualizations. Using the Plotly library, we've created interactive bar graphs, pie charts, and other visual representations that make it easy to grasp the insights gained from the dataset.
 
-![Example Visualization](path/to/your/visualization.png)
+![Example Visualization](https://github.com/weedu34/Netflix_Analysis/blob/main/download.jpg)
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
@@ -55,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to contact me at [your@email.com](mailto:your@email.com) if you have any questions or suggestions. I hope this analysis sheds light on interesting trends within Netflix's content and provides valuable insights to anyone interested in the world of streaming entertainment.
+Feel free to contact me at [weedu34@gmail.com](mailto:weedu34@gmail.com) if you have any questions or suggestions. I hope this analysis sheds light on interesting trends within Netflix's content and provides valuable insights to anyone interested in the world of streaming entertainment.
