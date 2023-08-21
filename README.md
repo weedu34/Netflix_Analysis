@@ -12,7 +12,7 @@ Welcome to the Netflix Analysis repository! In this project, I have conducted a 
 - [Contributing](#contributing)
 - [License](#license)
 
-  ## Introduction
+## Introduction
 
 Netflix has revolutionized the entertainment industry, and this project aims to gain insights into its content using data analysis techniques. By leveraging Python libraries like Pandas and Plotly, we explore the dataset to uncover trends and patterns within Netflix's offerings.
 
@@ -35,10 +35,9 @@ To explore the Netflix Analysis project, follow these steps:
 
 The analysis covers a wide range of aspects related to Netflix's content, including:
 - Distribution of content by release year.
-- Top genres and categories of content.
 - Director and cast analysis.
 - Content duration and release frequency.
-- And more!
+- Content released country-wise
 
 ## Visualizations
 
