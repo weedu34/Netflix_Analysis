@@ -26,7 +26,7 @@ To explore the Netflix Analysis project, follow these steps:
 1. Clone this repository: `git clone https://github.com/weedu34/Netflix_Analysis`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the dataset from Kaggle using the Kaggle API.
-4. Load and preprocess the dataset using Pandas in a Jupyter Notebook environment.
+4. Load and preprocess the dataset using Pandas in a Jupyter Notebook environment. The link to the file is [Notebook](https://github.com/weedu34/Netflix_Analysis/blob/main/data_analysis.ipynb)
 5. Run the analysis scripts to generate insights and visualizations.
 6. Explore the generated visualizations in the Jupyter Notebook or saved image files.
 
